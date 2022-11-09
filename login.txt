@@ -3,3 +3,5 @@ identifiez-vous
 Email : [           ]
 Password : [          ]
 [Se connecter]
+
+Vous n'avez pas encore de compte ? Veuillez vous enregistrer
