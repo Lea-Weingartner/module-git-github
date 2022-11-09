@@ -1,6 +1,5 @@
-const email=document.querySelector("#email")
-const password=document.querySelector("#password")
-
-if(pasword.value.lengh<8){
-    throw new error('mot de passe trop court')
-}
+Prestations
+============
+Nom : [           ]
+Client : [          ]
+[Valider]
